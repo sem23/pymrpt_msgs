@@ -1,0 +1,8 @@
+Header header
+geometry_msgs/Pose2D pose_change
+bool has_encoders_info
+int32 encoder_left_ticks
+int32 encoder_right_ticks
+bool has_velocities
+float32 velocity_lin
+float32 velocity_ang
